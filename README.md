@@ -2,6 +2,7 @@ Suvidha
 ========
 
 Suvidha is an android app that my team made in a hackathon organised by IBM. We made it in 4 days. We used IBM Bluemix for the backend services. 
+To build it, you will need to get the new set of API keys from ibm bluemix (https://console.ng.bluemix.net/) and replace it in the local.properties file.
 
 There are 3 main users for this application : Patient, Doctor and Hospital
 The app Allows patients, doctors and hospitals to register in the app
